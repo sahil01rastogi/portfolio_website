@@ -90,8 +90,8 @@ a{
     font-size: 7em;
     color:rgb(231,231,231);
     
-    bottom: -16%;
-    left: -5%;
+    bottom: -12%;
+    left: -3%;
     font-weight: bold;
     transition: all 3s;
 }
@@ -549,7 +549,7 @@ a{
   font-style:bold;
   color:rgb(231,231,231);
   bottom:-34.5%;
-  right:-25%;
+  right:5.9%;
   user-select:none;
   overflow-y:hidden;
 }
